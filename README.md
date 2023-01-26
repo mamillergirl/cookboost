@@ -8,7 +8,7 @@ In my day to day life, I find that I often have food in my fridge or pantry that
 
 # Video Demonstration
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/BImkbps-Lg8)
 
 # Web Pages
 The first screen automatically searches for recipes using chicken. The page dynamically changes the recipes that are displayed based on the input that the user gives it.
