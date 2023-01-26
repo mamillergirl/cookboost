@@ -19,6 +19,7 @@ The first screen automatically searches for recipes using chicken. The page dyna
 ## Tools
  - Visual Studio Code 
  - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ -- [Edamam API](https://www.edamam.com/)
  ## Languages
  - Javascript
  - HTML
