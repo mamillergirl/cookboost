@@ -7,7 +7,13 @@ import './App.css';
 const App = () => {
   const [recipes, setRecipes] = useState([]);
   const [searchTerm, setSearchTerm] = useState([]);
-  const [saved, setSaved] = useState([]);
+  const initSaved = () => {
+    let saved = []
+    const localSaved = localStorage.getItem('saved');
+    if (localSaved != null) saved = JSON.parse(localSaved);
+    return saved;
+  }
+  const [saved, setSaved] = useState(initSaved);
  
 
   useEffect(() => {
@@ -25,7 +31,7 @@ const App = () => {
     const response = await fetch(`${API_URL}${food}&app_id=c3150934&app_key=352f78ba754a189a5e7b5b9884b60312`);
     const data = await response.json();
     setRecipes(data.hits);
-  
+    console.log(recipes)
     
   }
 
