@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cookboost/static/css/main.23317ae1.css",
+    "main.js": "/cookboost/static/js/main.720def33.js",
+    "static/js/787.199e1580.chunk.js": "/cookboost/static/js/787.199e1580.chunk.js",
+    "static/media/CookBoostLogo.png": "/cookboost/static/media/CookBoostLogo.8361fe9de6a1da9e93b3.png",
+    "index.html": "/cookboost/index.html",
+    "static/media/search.svg": "/cookboost/static/media/search.285320118ed83acaf19197536d77139a.svg",
+    "static/media/bookmark.svg": "/cookboost/static/media/bookmark.61cab0ad21c5d5723fec2e3e6dabff3e.svg",
+    "main.23317ae1.css.map": "/cookboost/static/css/main.23317ae1.css.map",
+    "main.720def33.js.map": "/cookboost/static/js/main.720def33.js.map",
+    "787.199e1580.chunk.js.map": "/cookboost/static/js/787.199e1580.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23317ae1.css",
+    "static/js/main.720def33.js"
+  ]
+}
