@@ -17,7 +17,7 @@ const App = () => {
  
 
   useEffect(() => {
-    searchRecipes('Chicken');
+    searchRecipes('Pasta');
 
   }, []);
   useEffect(() => {
